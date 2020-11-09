@@ -1,0 +1,76 @@
+body{
+	color:white;
+	background: url(https://i.pinimg.com/originals/68/b2/11/68b211810e941c519d868e8ee9359d7b.gif) no-repeat;
+	background-position:center;
+    background-size:cover;
+}
+
+
+*,
+*:before,
+*:after{
+	
+	box-sizing:border-box;
+}
+
+.top{
+	height: 50px;
+	background-color:#5F0000  ; 
+}
+.set{
+	color: white;
+	text-align: center;
+}
+
+.container{
+	max-width:910px;
+	width:100%;
+	margin:0 auto;
+     background: rgba(205, 214, 219, 0.3);
+     height: 1000px;
+}
+
+.infoandfoto{
+	padding: 30px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.avatar{
+	width: 300px;
+	height: 200px;
+}
+
+.info{
+	margin: 0 20px;
+	text-align: center; 
+}
+
+.kek{
+padding: 15px 0;
+}
+
+.watch{
+	background-color: #B82501 ;
+	text-decoration: none;
+	color: white;
+	padding:12px 38px;
+
+	border-radius: 5px;
+
+	transition:background 0.1s;
+
+}
+
+.all_info{
+      padding: 0 50px;
+
+}
+
+//НЕ ЗАБУЬ про транзишон кнопка
+
+
+
+
+
+
